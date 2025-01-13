@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Minestrone Casserole Recipe</title>
+</head>
+<body>
+    <h1>Lasagna</h1>
+    <img src ="../images/minestrone-casserole.webp" alt="Lasagna">
+    <h2>Description</h2>
+    <p>This minestrone casserole, with fresh vegetables, canned beans, and pasta in a tomato sauce, topped with mozzarella and Parmesan cheeses, is a delicious new twist on minestrone soup.</p>
+    <h3>Ingredients</h3>
+    <ul>
+        <li>1 tablespoon olive oil</li>
+        <li>1 onion, chopped</li>
+        <li>2 cloves garlic, minced</li>
+        <li>2 carrots, chopped</li>
+        <li>2 stalks celery, chopped</li>
+        <li>1 zucchini, chopped</li>
+        <li>1 yellow squash, chopped</li>
+        <li>1 (28 ounce) can crushed tomatoes</li>
+        <li>1 (15 ounce) can kidney beans, drained and rinsed</li>
+        <li>1 (15 ounce) can cannellini beans, drained and rinsed</li>
+        <li>4 cups vegetable broth</li>
+        <li>1 teaspoon dried oregano</li>
+        <li>1 teaspoon dried basil</li>
+        <li>1/2 teaspoon dried thyme</li>
+        <li>Salt and pepper to taste</li>
+        <li>1 cup ditalini pasta</li>
+        <li>1 cup shredded mozzarella cheese</li>
+        <li>1/2 cup grated Parmesan cheese</li>
+    </ul>
+    <h3>Steps</h3>
+    <ul>
+        <ol>
+            <li>Gather all ingredients</li>
+            <li>Preheat the oven to 350 degrees F (180 degrees C). Lightly coat a 3-quart baking dish with nonstick cooking spray.            </li>
+            <li>Bring a large pot of water to a boil. Add pasta and cook, covered, for the minimum time according to package directions. Drain and transfer to a large bowl.</li>
+            <li>Meanwhile, heat oil in a large skillet over medium heat. Add onion, carrots, and celery; cover and cook, stirring occasionally, until carrots are just tender, 5 to 8 minutes. Add zucchini and garlic. Cook and stir 1 minute more.           </li>
+            <li>Add carrot mixture, beans, tomatoes, green beans, tomato sauce, 1/4 cup Parmesan cheese, Italian seasoning, salt, and pepper to the bowl of pasta. Stir well to combine. Transfer pasta mixture to the prepared dish and cover with foil. 
+            </li>
+            <li>Bake in the preheated oven for 20 minutes. Remove foil and top with mozzarella cheese; continue baking until heated through and cheese is melted,10 to 15 minutes. Top each serving with remaining Parmesan cheese and sprinkle with fresh herbs.
+            </li>
+        </ol>
+    </ul>
+    <a href ="../index.html">Home</a>
+</body>
+</html>
