@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Baked Ziti Recipe</title>
+</head>
+<body>
+    <h1>Baked Ziti</h1>
+    <img src ="../images/baked-ziti.webp" alt="Baked Ziti">
+    <h2>Description</h2>
+    <p>Baked Ziti is a classic Italian-American comfort food, perfect for any occasion.</p>
+    <h3>Ingredients</h3>
+    <ul>
+        <li><strong>Ziti pasta</strong>: Use a pound of ziti pasta for this recipe.</li>
+        <li><strong>Ground beef</strong>: Lean ground beef adds a hearty flavor.</li>
+        <li><strong>Onion and garlic</strong>: One onion and two cloves of garlic, finely chopped.</li>
+        <li><strong>Tomato sauce</strong>: You'll need a large can of tomato sauce.</li>
+        <li><strong>Ricotta cheese</strong>: Adds creaminess to the dish.</li>
+        <li><strong>Mozzarella cheese</strong>: Shredded mozzarella for that gooey, cheesy top.</li>
+        <li><strong>Parmesan cheese</strong>: Grated Parmesan for extra flavor.</li>
+        <li><strong>Spices and seasonings</strong>: Salt, pepper, dried basil, and oregano.</li>
+        <li><strong>Olive oil</strong>: For sautéing the onion and garlic.</li>
+    </ul>
+    <h3>Steps</h3>
+    <ol>
+        <li>Preheat the oven to 375°F (190°C).</li>
+        <li>Cook the ziti pasta according to package instructions. Drain and set aside.</li>
+        <li>In a large skillet, heat olive oil over medium heat. Add the onion and garlic, and sauté until softened.</li>
+        <li>Add the ground beef to the skillet and cook until browned. Drain any excess fat.</li>
+        <li>Stir in the tomato sauce, basil, oregano, salt, and pepper. Simmer for 10 minutes.</li>
+        <li>In a large bowl, combine the cooked ziti, meat sauce, and ricotta cheese. Mix well.</li>
+        <li>Transfer the mixture to a baking dish. Top with shredded mozzarella and grated Parmesan cheese.</li>
+        <li>Cover with foil and bake for 20 minutes. Remove the foil and bake for an additional 10 minutes, or until the cheese is bubbly and golden.</li>
+        <li>Let the baked ziti rest for a few minutes before serving.</li>
+    </ol>
+    <a href ="../index.html">Home</a>
+</body>
+</html>
